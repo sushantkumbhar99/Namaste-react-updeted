@@ -1,0 +1,19 @@
+{
+  "name": "namastereact1",
+  "version": "1.0.0",
+  "description": "This is updeted namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantkumbhar99/Namaste-react-updeted.git"
+  },
+  "author": "Sushant Kumbhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantkumbhar99/Namaste-react-updeted/issues"
+  },
+  "homepage": "https://github.com/sushantkumbhar99/Namaste-react-updeted#readme"
+}
